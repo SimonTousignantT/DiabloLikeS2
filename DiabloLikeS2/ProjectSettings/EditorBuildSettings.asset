@@ -4,5 +4,14 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/tousignant.t simon/Scenes/Menu.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/tousignant.t simon/Scenes/Game.unity
+    guid: 73230f21d8c32694e9e895515d009b41
+  - enabled: 1
+    path: Assets/tousignant.t simon/Scenes/GameOver.unity
+    guid: 0a395482541f1e044bc8ccf6110a4d97
   m_configObjects: {}
