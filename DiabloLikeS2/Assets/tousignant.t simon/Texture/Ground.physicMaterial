@@ -7,8 +7,8 @@ PhysicMaterial:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Ground
-  dynamicFriction: 45.42
-  staticFriction: 13
+  dynamicFriction: 81.4
+  staticFriction: 27.83
   bounciness: 0
   frictionCombine: 3
   bounceCombine: 1

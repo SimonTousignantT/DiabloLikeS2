@@ -57,16 +57,33 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\tousignant.t simon\Script\CameraFollow.cs" />
-    <Compile Include="Assets\tousignant.t simon\Script\PlayerMove.cs" />
-    <Compile Include="Assets\tousignant.t simon\Script\SoundManager.cs" />
-    <Compile Include="Assets\tousignant.t simon\Script\LoadScene.cs" />
+    <Compile Include="Assets\tousignant.t simon\Script\SetInactiveOnStart.cs" />
+    <Compile Include="Assets\AssetStore\PBS Barrels and Crates\Scripts\MoveCamForward.cs" />
+    <Compile Include="Assets\AssetStore\PBS Barrels and Crates\Scripts\DestroyBelowY.cs" />
     <Compile Include="Assets\tousignant.t simon\Script\Door.cs" />
+    <Compile Include="Assets\AssetStore\PBS Barrels and Crates\Scripts\CrateGridBuilder.cs" />
+    <Compile Include="Assets\tousignant.t simon\Script\BarrelDestroy.cs" />
+    <Compile Include="Assets\tousignant.t simon\Script\ZoneActivate.cs" />
+    <Compile Include="Assets\tousignant.t simon\Script\TimeDestroyer.cs" />
+    <Compile Include="Assets\AssetStore\PBS Barrels and Crates\Scripts\DestroyOnHit.cs" />
+    <Compile Include="Assets\tousignant.t simon\Script\PlayerMove.cs" />
+    <Compile Include="Assets\AssetStore\PBS Barrels and Crates\Scripts\DestroyOnClick.cs" />
+    <Compile Include="Assets\tousignant.t simon\Script\LifeSkeleton.cs" />
+    <Compile Include="Assets\AssetStore\PBS Barrels and Crates\Scripts\ExplodeBarrel.cs" />
+    <Compile Include="Assets\tousignant.t simon\Script\SkeletonEnemi.cs" />
+    <Compile Include="Assets\tousignant.t simon\Script\SoundManager.cs" />
+    <Compile Include="Assets\tousignant.t simon\Script\axeBoostAim.cs" />
+    <Compile Include="Assets\tousignant.t simon\Script\LifePlayer.cs" />
+    <Compile Include="Assets\tousignant.t simon\Script\LoadScene.cs" />
+    <Compile Include="Assets\tousignant.t simon\Script\BarrelSound.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Assets\Toby Fredson\Classic Columns\PostProcessing\Custom Profiles\PP-Profiles_Readme!.txt" />
-    <None Include="Assets\Ork berserker\materials\Standard_Two_Sided .shader" />
-    <None Include="Assets\AlchemyLabProps\Readme.txt" />
-    <None Include="Assets\Toby Fredson\Classic Columns\Author&apos;s note!.txt" />
+    <None Include="Assets\AssetStore\Toby Fredson\Classic Columns\PostProcessing\Custom Profiles\PP-Profiles_Readme!.txt" />
+    <None Include="Assets\AssetStore\Medieval props\Read me.txt" />
+    <None Include="Assets\AssetStore\Ork berserker\materials\Standard_Two_Sided .shader" />
+    <None Include="Assets\AssetStore\AlchemyLabProps\Readme.txt" />
+    <None Include="Assets\AssetStore\Toby Fredson\Classic Columns\Author&apos;s note!.txt" />
+    <None Include="Assets\AssetStore\PBS Barrels and Crates\readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
