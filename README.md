@@ -1,4 +1,4 @@
-1- les moovement du joueur(le joueur se deplace grace au NavMeshAgent quand on clique sur la map(raycast)comme dans diablo )
+1- les mouvement du joueur(le joueur se deplace grace au NavMeshAgent quand on clique sur la map(raycast)comme dans diablo )
 10 minute optimiste, 30 minute realiste, 45minute pessimiste (10 + 4(30) + 45) / 6 = 29) minute
 
 2- faire la carte(doit avoir un oject activable)
