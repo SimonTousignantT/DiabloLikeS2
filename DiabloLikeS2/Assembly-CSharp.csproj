@@ -61,7 +61,9 @@
     <Compile Include="Assets\AssetStore\PBS Barrels and Crates\Scripts\MoveCamForward.cs" />
     <Compile Include="Assets\AssetStore\PBS Barrels and Crates\Scripts\DestroyBelowY.cs" />
     <Compile Include="Assets\tousignant.t simon\Script\Door.cs" />
+    <Compile Include="Assets\tousignant.t simon\tpOutils\script\DropManager.cs" />
     <Compile Include="Assets\AssetStore\PBS Barrels and Crates\Scripts\CrateGridBuilder.cs" />
+    <Compile Include="Assets\tousignant.t simon\Script\GameOverButton.cs" />
     <Compile Include="Assets\tousignant.t simon\Script\BarrelDestroy.cs" />
     <Compile Include="Assets\tousignant.t simon\Script\ZoneActivate.cs" />
     <Compile Include="Assets\tousignant.t simon\Script\TimeDestroyer.cs" />
@@ -73,11 +75,13 @@
     <Compile Include="Assets\tousignant.t simon\Script\SkeletonEnemi.cs" />
     <Compile Include="Assets\tousignant.t simon\Script\SoundManager.cs" />
     <Compile Include="Assets\tousignant.t simon\Script\axeBoostAim.cs" />
+    <Compile Include="Assets\tousignant.t simon\Script\SecretPassage.cs" />
+    <Compile Include="Assets\tousignant.t simon\tpOutils\script\MyRandomDrop.cs" />
     <Compile Include="Assets\tousignant.t simon\Script\LifePlayer.cs" />
     <Compile Include="Assets\tousignant.t simon\Script\LoadScene.cs" />
     <Compile Include="Assets\tousignant.t simon\Script\BarrelSound.cs" />
-    <Compile Include="Assets\tousignant.t simon\Script\SecretPassage.cs" />
-    <Compile Include="Assets\tousignant.t simon\Script\GameOverButton.cs" />
+    <Compile Include="Assets\tousignant.t simon\tpOutils\script\NewButtonPrefab.cs" />
+    <Compile Include="Assets\tousignant.t simon\tpOutils\script\ButtonClic.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\AssetStore\Toby Fredson\Classic Columns\PostProcessing\Custom Profiles\PP-Profiles_Readme!.txt" />

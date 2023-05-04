@@ -12,8 +12,6 @@ public class SkeletonEnemi : MonoBehaviour
     [SerializeField]
     private float m_attackSpeed = 1;
     private LifePlayer m_playerLife;
-    [SerializeField]
-    private float m_stoppingDistance = 2;
     private bool m_imAmDead = false;
     private bool m_event = false;
     // Start is called before the first frame update

@@ -9,8 +9,7 @@ public class SecretPassage : MonoBehaviour
     private GameObject m_door;
     private float m_chronos = 0;
     private float m_timer = 0.1f;
-    [SerializeField]
-    private float m_speed = 0.1f;
+   
     private bool m_haveRotate = false;
     private float m_rotate = -10f;
     [SerializeField]
