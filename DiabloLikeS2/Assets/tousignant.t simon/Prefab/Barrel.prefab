@@ -10,6 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 3454144058511799846}
   - component: {fileID: 3454144058512602630}
+  - component: {fileID: 2762953460742139473}
   - component: {fileID: 3454144058513568966}
   - component: {fileID: 3454144057830894990}
   - component: {fileID: 3454144057830894984}
@@ -44,6 +45,18 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3454144058511370758}
   m_Mesh: {fileID: 4300192, guid: fd75e63c14c4540438372a6844af68b6, type: 3}
+--- !u!114 &2762953460742139473
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3454144058511370758}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 65a7f437fc5849743969ded882d246d1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!23 &3454144058513568966
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -212,6 +225,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_debris: {fileID: 4326346323643407588, guid: 0e8756f6fda50b644b94c30eb42ee022, type: 3}
+  m_radomDrop: {fileID: 2762953460742139473}
 --- !u!65 &-4242096171170949840
 BoxCollider:
   m_ObjectHideFlags: 0
